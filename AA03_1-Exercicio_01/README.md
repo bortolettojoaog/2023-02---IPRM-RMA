@@ -16,6 +16,10 @@ The following tools were used in building the project:
 
 <br/>
 
+<h1 align="center">
+    <img alt="Test" title="Test" src="https://github.com/bortolettojoaog/2023-02---IPRM-RMA/blob/main/AA03_1-Exercicio_01/gifs/Exercise%201%20-%20AA03%20-%20Automacao.gif" />
+</h1>
+
 ---
 
 <p align="center">
