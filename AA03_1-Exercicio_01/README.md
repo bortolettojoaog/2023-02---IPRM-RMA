@@ -18,7 +18,7 @@ The following tools were used in building the project:
 
 # ✔️ Tests:
 <h1 align="center">
-    <img src="https://github.com/bortolettojoaog/2023-02---IPRM-RMA/blob/main/AA03_1-Exercicio_01/gifs/Exercise%201%20-%20AA03%20-%20Automacao.gif" />
+    <img src="./gifs/Exercise%201%20-%20AA03%20-%20Automacao.gif" />
 </h1>
 </h1>
 
