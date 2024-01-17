@@ -12,7 +12,6 @@ def callback_laser(msg):
    esquerda = 0
    direita = 0
   
- 
    for i in range(len(laser_float)):
 
       if i >= 0 and i < 278:
